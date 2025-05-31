@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Politica de cookies</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Politica de cookies</h1>
+    </header>
+    <section>
+        <p>
+<h1>POLÍTICA DE COOKIES</h1>
+<a>
+L'accés a aquest Lloc Web pot implicar la utilització de galetes. Les galetes són petites quantitats d'informació que s'emmagatzemen al navegador utilitzat per cada Usuari -en els diferents dispositius que pugui utilitzar per navegar- perquè el servidor recordi certa informació que posteriorment i únicament el servidor que la va implementar llegirà. Les galetes faciliten la navegació, la fan més amigable, i no fan malbé el dispositiu de navegació.
+
+Les cookies són procediments automàtics de recollida d'informació relativa a les preferències determinades per l'Usuari durant la visita al Lloc Web per tal de reconèixer-lo com a Usuari, i personalitzar la seva experiència i l'ús del Lloc Web, i poden també, per exemple, ajudar a identificar i resoldre errors.
+
+La informació recollida a través de les galetes pot incloure la data i hora de visites al Lloc Web, les pàgines visionades, el temps que ha estat al Lloc Web i els llocs visitats just abans i després. Tot i això, cap galeta permet que aquesta mateixa pugui contactar amb el número de telèfon de l'Usuari o amb qualsevol altre mitjà de contacte personal. Cap galeta no pot extreure informació del disc dur de l'Usuari o robar informació personal. L'única manera que la informació privada de l'Usuari formi part del fitxer Cookie és que l'usuari doni personalment aquesta informació al servidor.
+
+Les galetes que permeten identificar una persona es consideren dades personals. Per tant, a les mateixes els serà aplicable la Política de Privadesa anteriorment descrita. En aquest sentit, per utilitzar-les serà necessari el consentiment de l'Usuari. Aquest consentiment serà comunicat, en base a una elecció autèntica, ofert mitjançant una decisió afirmativa i positiva, abans del tractament inicial, removible i documentat.</a>
+<a>
+<h1>Cookies pròpies</h1>
+Són aquelles galetes que són enviades a l'ordinador o dispositiu de l'Usuari i gestionades exclusivament performulariper al millor funcionament del Lloc Web. La informació que es recull s'empra per millorar la qualitat del Lloc Web i el seu Contingut i la seva experiència com a Usuari Aquestes cookies permeten reconèixer l'Usuari com a visitant recurrent del Lloc Web i adaptar el contingut per oferir continguts que s'ajustin a les seves preferències.</a>
+<a>
+<h1>Galetes de tercers</h1>
+Són cookies utilitzades i gestionades per entitats externes que proporcionenformulariserveis sol·licitats per aquest mateix per millorar el Lloc Web i l'experiència de l'usuari en navegar al Lloc Web. Els objectius principals per als quals s'utilitzen galetes de tercers són l'obtenció d'estadístiques d'accessos i analitzar la informació de la navegació, és a dir, com interactua l'Usuari amb el Lloc Web.
+
+La informació que s'obté es refereix, per exemple, al nombre de pàgines visitades, l'idioma, el lloc on l'adreça IP des d'on accedeix l'usuari, el nombre d'usuaris que hi accedeixen, la freqüència i la reincidència de les visites, el temps de visita, el navegador que usen, l'operador o el tipus de dispositiu des del qual es fa la visita. Aquesta informació es fa servir per millorar el Lloc Web, i detectar noves necessitats per oferir als Usuaris un Contingut i/o servei d'òptima qualitat. En tot cas, la informació es recopila de forma anònima i s'elaboren informes de tendències del Lloc Web sense identificar usuaris individuals.
+
+Podeu obtenir més informació sobre les galetes, la informació sobre la privadesa, o consultar la descripció del tipus de galetes que s'utilitza, les seves principals característiques, període d'expiració, etc. en el següent(s) enllaç(s):
+
+Google
+
+L'entitat(s) encarregada(es) del subministrament de cookies podrà(n) cedir aquesta informació a tercers, sempre que ho exigeixi la llei o sigui un tercer el que processi aquesta informació per a aquestes entitats.
+
+Deshabilitar, rebutjar i eliminar cookies
+L'Usuari pot deshabilitar, rebutjar i eliminar les cookies —totalment o parcialment— instal·lades al dispositiu mitjançant la configuració del vostre navegador (entre els quals es troben, per exemple, Chrome, Firefox, Safari, Explorer). En aquest sentit, els procediments per rebutjar i eliminar les galetes poden diferir d'un navegador d'Internet a un altre. En conseqüència, l'Usuari ha d'acudir a les instruccions facilitades pel navegador d'Internet mateix que utilitzi. En cas que rebutgi l'ús de cookies —totalment o parcialment— podrà continuar usant el Lloc Web, si bé podrà tenir limitada la utilització d'algunes de les prestacions del mateix.</a>
+</p>
+    </section>
+    <footer>
+        <ul>
+            <li><a href="indexrecus.html">Inici</a></li>
+              <li><a href="Politica-Privacitat.html">Politica de privacitat</a></li>
+            <li><a href="avis-legal.html">Avis Legal</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

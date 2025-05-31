@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Sergio Domínguez - Contacte</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sergio Domínguez</h1>
+        <p>Formulari de contacte i textos legals</p>
+    </header>
+
+    <section id="formulari-contacte">
+        <h2>Formulari de contacte</h2>
+        <form action="seguretat.php" method="POST">
+            <label for="nom">Nom:</label>
+            <input type="text" id="nom" name="nom" required>
+
+            <label for="email">Correu electrònic:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="missatge">Missatge:</label>
+            <textarea id="missatge" name="missatge" required></textarea>
+            
+            <label class="recuadre"></label>
+             <input type="checkbox" id="recuadre" required>
+             <a>Acepto els termins de privacitat</a>
+
+            <input type="submit" value="Enviar">
+        </form>
+    </section>
+
+    <footer>
+        <ul>
+            <li><a href= "avis-legal.html" target="_blank">Avís legal</a></li>
+            <li><a href="Politica-Privacitat.html" target="_blank">Política de privacitat</a></li>
+            <li><a href="politica-cookies.html" target="_blank">Política de cookies</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
